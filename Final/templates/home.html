@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>영상 내 비속어 자동 필터링 시스템</title>
+    <script src="{{ url_for('static', filename='JS/jquery-3.6.0.js') }}"></script>
+    <link href="{{ url_for('static', filename='CSS/home.css') }}" rel="stylesheet">
+    <script src="{{ url_for('static', filename='JS/home.js') }}"></script>
+    
+
+
+
+    <script src="../static/JS/jquery-3.6.0.js'"></script>
+    <link rel="stylesheet" href="../static/CSS/home.css">
+    
+    <script type="text/javascript" src="../static/JS/home.js"></script>  
+
+<script type="text/javascript">// <![CDATA[
+    function loading(){
+        $("#loading").show();
+        $("#content").hide();       
+    }
+// ]]></script>
+    
+</head>
+<body>
+    <div id=mainpage>
+    <br>
+    <span style="font-size:50px; text-align:center; color :aliceblue; font-family: Arial, Helvetica, sans-serif; ">
+     ACDC Swear Word Remover</span>
+     </div>
+
+
+<div id=loading>
+    
+    <span style="font-size:30px; text-align:center; color :aliceblue; font-family: Arial, Helvetica, sans-serif; ">
+        나쁜 말이 사라지고 있어요!</span> 
+</div>
+<div id=content>
+<form action="http://0.0.0.0:8080/file-upload" method="POST" enctype = "multipart/form-data">
+    <input type = "file" name = "file" />
+    <p>욕설을 제거할 파일을 여기로 끌어오세요.</p>
+    <button type="submit" onclick="loading();">Upload</button>
+</form>
+
+
+</div>
+</body>
+</html>
