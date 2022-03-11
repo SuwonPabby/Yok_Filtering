@@ -1,2 +1,4 @@
 # Yok_Filtering
-졸업 좀 시켜줘 ....
+최종 결과 영상!
+
+[![Video Label](http://img.youtube.com/vi/ydWShDVGubo/0.jpg)](https://youtu.be/ydWShDVGubo) 
