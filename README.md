@@ -4,16 +4,16 @@
 
 <div align="center">
 <a href="https://www.youtube.com/watch?v=ydWShDVGubo&ab_channel=SuwonPabby">
- <img src="https://drive.google.com/uc?id=18aYk6BtLhNMqZ1X3_RKTX3w-B-cXkMXK" width="500">
+ <img src="https://drive.google.com/uc?id=18aYk6BtLhNMqZ1X3_RKTX3w-B-cXkMXK" width="300">
 </a>
 <a href="https://github.com/SuwonPabby/Yok_Filtering/blob/main/Final/Grad_Model%E1%84%8B%E1%85%B4_%E1%84%89%E1%85%A1%E1%84%87%E1%85%A9%E1%86%AB.ipynb">
- <img src="https://drive.google.com/uc?id=1R8kMYYBEZjbEL4xqkMSZVj9OvC8cnI65" width="500">
+ <img src="https://drive.google.com/uc?id=1R8kMYYBEZjbEL4xqkMSZVj9OvC8cnI65" width="300">
 </a>
 <a href="https://github.com/SuwonPabby/Yok_Filtering/blob/main/Final/module.py">
- <img src="https://drive.google.com/uc?id=1HKoKibC0fZclA4sxob5YbO4M6_qdT6B_" width="500">
+ <img src="https://drive.google.com/uc?id=1HKoKibC0fZclA4sxob5YbO4M6_qdT6B_" width="300">
 </a>
 <a href="https://github.com/SuwonPabby/Yok_Filtering/blob/main/Final/app.py">
- <img src="https://drive.google.com/uc?id=1osqIelK1xr2N8jseXIsAoxkcAkNK52bR" width="500">
+ <img src="https://drive.google.com/uc?id=1osqIelK1xr2N8jseXIsAoxkcAkNK52bR" width="300">
 </a>
 </div>
 
