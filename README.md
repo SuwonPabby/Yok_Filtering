@@ -119,7 +119,7 @@ L(\beta) = \sum_{i=1}^{m} w_{i}(y'_{i} - (\beta _{0} + \beta _{1}x _{i1} + \dots
 - 각 단어에 대하여 아래의 조건식을 만족시키면 저희는 이 단어를 욕설로 판별했습니다.
   
 $$
-  wordScore(word) > 1.1 - globalScore(word)
+  wordScore(word) > 1.1 - groupScore(word)
 $$
 
   ![10-08-2023-22 51 09](https://github.com/SuwonPabby/Yok_Filtering/assets/60493070/945ad2d3-9065-40a6-9008-892e6f9c3388)
