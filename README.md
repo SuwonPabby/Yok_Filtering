@@ -112,7 +112,7 @@
 L(\beta) = \sum_{i=1}^{m} w_{i}(y'_{i} - (\beta _{0} + \beta _{1}x _{i1} + \dots + \beta _{n}x _{in}))^2
  $$ 
  
-- 이 식에서 각 beta의 값이 Lime Algorithm이 산출하는 최종 점수 값이며 각 word에 대한 이 값을 저희는 wordScore로 두는 것입니다.
+- 이 식에서 각 $\beta$의 값이 Lime Algorithm이 산출하는 최종 점수 값이며 각 word에 대한 이 값을 저희는 wordScore로 두는 것입니다.
 <br />
 
 - 판별을 단어 단위로 하고 있으나, 모델은 음운별 인덱싱을 사용하고 있으므로 각 단어를 음운으로 나누어 인덱싱한 뒤 모델에 입력합니다.
