@@ -88,7 +88,7 @@
 - 이어서 이 묶음에서 한 단어씩 없앴을 때 나머지 3개 단어 묶음이 욕설일 확률을 1DCNN 모델을 통과시켜 3개 단어의 욕설 확률 값을 얻어냅니다. 저희는 이를 Word Score라고 정의했습니다.
 - Word Score는 제거시킨 단어에 대응되는 값입니다.
 - 예를 들어 4개의 단어 A B C D 로 구성된 묶음이 있다면
-  $groupScore(A) = groupScore(B) = groupScore(C) = groupScore(d)$ 입니다.
+  $groupScore(A) = groupScore(B) = groupScore(C) = groupScore(D)$ 입니다.
   한편 A를 제거한 B C D 문장을 1DCNN 모델에 넣어 얻은 값은 $wordScore(A)$ 입니다.
 - 판별을 단어 단위로 하고 있으나, 모델은 음운별 인덱싱을 사용하고 있으므로 각 단어를 음운으로 나누어 인덱싱한 뒤 모델에 입력합니다.
 - 각 단어에 대하여 아래의 조건식을 만족시키면 저희는 이 단어를 욕설로 판별했습니다.
