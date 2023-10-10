@@ -4,25 +4,25 @@
 
 <div align="center">
 <a href="https://www.youtube.com/watch?v=ydWShDVGubo&ab_channel=SuwonPabby">
- <img src="https://drive.google.com/uc?id=18aYk6BtLhNMqZ1X3_RKTX3w-B-cXkMXK" width="400">
+ <img src="https://drive.google.com/uc?id=18aYk6BtLhNMqZ1X3_RKTX3w-B-cXkMXK" width="400" alt="최종발표 영상 보러가기">
 </a>
 <a href="https://github.com/SuwonPabby/Yok_Filtering/blob/main/Final/Grad_Model%E1%84%8B%E1%85%B4_%E1%84%89%E1%85%A1%E1%84%87%E1%85%A9%E1%86%AB.ipynb">
- <img src="https://drive.google.com/uc?id=1R8kMYYBEZjbEL4xqkMSZVj9OvC8cnI65" width="400">
+ <img src="https://drive.google.com/uc?id=1R8kMYYBEZjbEL4xqkMSZVj9OvC8cnI65" width="400" alt="모델 학습 코드 보러가기">
 </a>
 </div>
 <div align="center">
 <a href="https://github.com/SuwonPabby/Yok_Filtering/blob/main/Final/module.py">
- <img src="https://drive.google.com/uc?id=1HKoKibC0fZclA4sxob5YbO4M6_qdT6B_" width="400">
+ <img src="https://drive.google.com/uc?id=1HKoKibC0fZclA4sxob5YbO4M6_qdT6B_" width="400" alt="실제 동작 Module 보러가기">
 </a>
 <a href="https://github.com/SuwonPabby/Yok_Filtering/blob/main/Final/app.py">
- <img src="https://drive.google.com/uc?id=1osqIelK1xr2N8jseXIsAoxkcAkNK52bR" width="400">
+ <img src="https://drive.google.com/uc?id=1osqIelK1xr2N8jseXIsAoxkcAkNK52bR" width="400" alt="Flask 서버 코드 보러가기">
 </a>
 </div>
 
 ## 1. What We Made
 
 <div align="center">
-<img src="https://drive.google.com/uc?id=16qQuVFXfK5DHG2nLj_J8CS97GqKKJChO" width="600">
+<img src="https://drive.google.com/uc?id=16qQuVFXfK5DHG2nLj_J8CS97GqKKJChO" width="600" alt="개요 이미지">
 </div>
 
 ### 🤬 최근 미디어 내에는 자극적인 워딩이 많이 등장합니다.
