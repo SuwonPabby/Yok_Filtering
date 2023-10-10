@@ -118,9 +118,9 @@ L(\beta) = \sum_{i=1}^{m} w_{i}(y'_{i} - (\beta _{0} + \beta _{1}x _{i1} + \dots
 - 판별을 단어 단위로 하고 있으나, 모델은 음운별 인덱싱을 사용하고 있으므로 각 단어를 음운으로 나누어 인덱싱한 뒤 모델에 입력합니다.
 - 각 단어에 대하여 아래의 조건식을 만족시키면 저희는 이 단어를 욕설로 판별했습니다.
   
-  $$
+$$
   wordScore(word) > 1.1 - globalScore(word)
-  $$
+$$
 
   ![10-08-2023-22 51 09](https://github.com/SuwonPabby/Yok_Filtering/assets/60493070/945ad2d3-9065-40a6-9008-892e6f9c3388)
 
